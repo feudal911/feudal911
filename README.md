@@ -25,33 +25,11 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 <div align="center">
 🖥️ Frontend
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-⚙️ Backend
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-📱 Mobile
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-</div>
-<br/>
 
-<!-- GITHUB STATS -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feudal911&show_icons=true&theme=blood_dark&include_all_commits=true&count_private=true&border_color=CC0000&title_color=CC0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feudal911&layout=compact&langs_count=8&theme=blood_dark&border_color=CC0000&title_color=CC0000&text_color=ffffff&bg_color=0d0d0d"/>
-</div>
-<br/>
-<div align="center">
-Mostrar Imagem
-</div>
-<br/>
+⚙️ Backend
+
+📱 Mobile
+
 
 <!-- SNAKE ANIMATION -->
 🐍 Contribuições
@@ -64,40 +42,12 @@ Mostrar Imagem
 </div>
 <br/>
 
-<!-- TROPHY -->
-🏆 Troféus
-<div align="center">
-Mostrar Imagem
-</div>
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-📊 Atividade
-<div align="center">
-Mostrar Imagem
-</div>
-<br/>
-
-<!-- CONTATO -->
-📡 Contato
-<div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-</div>
-<br/>
-
 <!-- QUOTE ANIMADA -->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+code+you+write+makes+you+a+programmer.+The+code+you+delete+makes+you+a+good+one.&author=feudal911" />
 </div>
 <br/>
 
-<!-- VISITOR COUNTER -->
-<div align="center">
-Mostrar Imagem
-</div>
-<br/>
 
 <!-- GIF FINAL -->
 <div align="center">
